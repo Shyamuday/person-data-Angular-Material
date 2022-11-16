@@ -1,0 +1,17 @@
+.example-spacer {
+    flex: 1 1 auto;
+  }
+ .add-icon{
+    margin-left: 10rem;
+ } 
+ mat-icon{
+   color: rgb(93, 66, 168);
+ }
+.card{
+   min-height: 40px;
+   max-width: 40px;
+   border-radius: 8px;
+background: #e0e0e0;
+box-shadow: inset 20px 20px 40px #5a5a5a,
+            inset -20px -20px 40px #ffffff;
+}

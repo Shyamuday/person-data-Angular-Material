@@ -1,0 +1,36 @@
+{
+  "person": [
+    {
+      "name": "Ramesh Singh",
+      "email": "Ramesh43@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Shreekant",
+      "email": "shreekant@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "hy",
+      "email": "hbhjb@gmail.com",
+      "id": 8
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
